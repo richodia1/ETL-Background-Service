@@ -1,0 +1,6 @@
+C:\Users\Rokosodo\documents\visual studio 2015\Projects\ArikInterview\ArikInterview\bin\Debug\ArikInterview.exe.config
+C:\Users\Rokosodo\documents\visual studio 2015\Projects\ArikInterview\ArikInterview\bin\Debug\ArikInterview.exe
+C:\Users\Rokosodo\documents\visual studio 2015\Projects\ArikInterview\ArikInterview\bin\Debug\ArikInterview.pdb
+C:\Users\Rokosodo\documents\visual studio 2015\Projects\ArikInterview\ArikInterview\obj\Debug\ArikInterview.exe
+C:\Users\Rokosodo\documents\visual studio 2015\Projects\ArikInterview\ArikInterview\obj\Debug\ArikInterview.pdb
+C:\Users\Rokosodo\documents\visual studio 2015\Projects\ArikInterview\ArikInterview\obj\Debug\ArikInterview.csprojResolveAssemblyReference.cache
